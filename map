@@ -21,7 +21,7 @@
         font-family: 'Open Sans', sans-serif;
     }
 </style>
-
+<div id='map'></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiYm9ydGVnYXdlbGNoIiwiYSI6ImNqY3dzd3p2dDBpNTgyd3FzcTZmb3kwbWkifQ.lBAzTLmBI-ZaS1JQlx1F-Q';
 var map = new mapboxgl.Map({
